@@ -23,5 +23,4 @@ __pycache__/
 # Data
 datasets/raw/*
 datasets/intermediate/*
-*.csv
 *.tsv
