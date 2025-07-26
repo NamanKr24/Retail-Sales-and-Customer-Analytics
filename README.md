@@ -92,6 +92,7 @@ Naman Kumar
 📧 Email: namankr24@gmail.com
 
 🔗 GitHub: NamanKr24
+
 ---
 
 This project demonstrates how transactional data can be transformed into business intelligence using SQL logic and Excel’s data modeling capabilities—ideal for data analysts working in retail or e-commerce domains.
