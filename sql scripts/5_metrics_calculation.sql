@@ -1,6 +1,5 @@
 SELECT MAX(InvoiceDate) FROM OnlineRetail_Cleaned;
 
--- Your updated query with the correct SNAPSHOT_DATE
 DEFINE SNAPSHOT_DATE = TO_DATE('09-12-11', 'DD-MM-RR');
 
 WITH CustomerRFM_Metrics AS (
