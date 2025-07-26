@@ -52,11 +52,15 @@ The dashboard is divided into four analytical sections:
 - Designed a complete RFM-based customer analytics pipeline in SQL  
 - Developed a 4-page, slicer-enabled Excel dashboard for sales and customer insights  
 - Identified key segments such as Champions, Loyal, At-Risk, and Lost customers  
-- Highlighted top products and optimized marketing potential based on revenue trends  
+- Highlighted top products and optimized marketing potential based on revenue trends
+
+  **Snapshot:**  
+   ![Dashboard](dashboard_preview.png)
 
 ---
 
-## 🚀 How to Use  
+## 🚀 How to Use
+
 1. Clone this repository  
 2. Open the Excel dashboard file  
 3. Use the slicers to filter by **Invoice Date**, **Country**, or **Customer Segment**  
@@ -73,6 +77,22 @@ Derived fields created during processing include:
 
 - `LineTotal`, `InvoiceMonth`, `InvoiceYear`, and `DayOfWeek`
 
+- **Dataset Source**: [Online Retail Dataset on Kaggle](https://www.kaggle.com/datasets/ulrikthygepedersen/online-retail-dataset)
+---
+
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).
+
+---
+
+## 📬 Contact
+
+Naman Kumar
+
+📧 Email: namankr24@gmail.com
+
+🔗 GitHub: NamanKr24
 ---
 
 This project demonstrates how transactional data can be transformed into business intelligence using SQL logic and Excel’s data modeling capabilities—ideal for data analysts working in retail or e-commerce domains.
