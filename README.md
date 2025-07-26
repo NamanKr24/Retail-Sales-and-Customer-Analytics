@@ -53,9 +53,8 @@ The dashboard is divided into four analytical sections:
 - Developed a 4-page, slicer-enabled Excel dashboard for sales and customer insights  
 - Identified key segments such as Champions, Loyal, At-Risk, and Lost customers  
 - Highlighted top products and optimized marketing potential based on revenue trends
-
-  **Snapshot:**  
-   ![Dashboard](dashboard_preview.png)
+  
+![Dashboard](dashboard_preview.png)
 
 ---
 
