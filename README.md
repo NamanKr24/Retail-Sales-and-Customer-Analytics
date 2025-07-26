@@ -1,4 +1,4 @@
-# Retail Sales and Customer Analytics
+# Retail Sales and Customer Insights
 
 Uncover customer behavior, sales patterns, and product insights with this Excel dashboard powered by Oracle SQL and Power Pivot.
 
