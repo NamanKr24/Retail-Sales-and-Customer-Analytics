@@ -1,41 +1,27 @@
-# Prerequisites
-*.d
+# OS files
+.DS_Store
+Thumbs.db
 
-# Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
+# Excel auto-backups
+~$*.xlsx
+~$*.xlsm
+~$*.xlsb
 
-# Precompiled Headers
-*.gch
-*.pch
+# Temporary/lock files
+*.lock
+*.tmp
+*.bak
 
-# Linker files
-*.ilk
+# VS Code settings (optional)
+.vscode/
 
-# Debugger Files
-*.pdb
+# Python or Jupyter stuff (if used at all)
+*.ipynb_checkpoints
+__pycache__/
+*.pyc
 
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
-
-# Fortran module files
-*.mod
-*.smod
-
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
-
-# Executables
-*.exe
-*.out
-*.app
-
-# debug information files
-*.dwo
+# Data
+datasets/raw/*
+datasets/intermediate/*
+*.csv
+*.tsv
